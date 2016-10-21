@@ -1,2 +1,4 @@
 # hello-world
-Lauren's test
+Hi,
+
+I'm Lauren and I like to bike, waterski and read.
